@@ -1,0 +1,12 @@
+
+
+{% if form.errors.non_field_errors %}
+{{ form.errors.non_field_errors }}
+{%endif%}
+<form method="POST"> {% csrf_token %}
+	<!--<input type='text' name='name' placeholder='Your Title'><br/>
+	<input type='text' name='location' placeholder='Location'><br/>
+	<input type='text' name='category' placeholder='Category'><br/>-->
+{{form.as_p}}
+<button type="submit">Save</button>
+</form>

@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"pk"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"reu",
+				"request"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"6B",
+				"6B8E23"
+			],
+			[
+				"th",
+				"th\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/templates/profiles/snippet/follow_form.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/views.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/urls.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/home.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/forms.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/models.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/templates/profiles/user.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/muypicky/settings/base.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/utils.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/registration/register.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/base.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/contact.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/snippets/nav.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/muypicky/urls.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/menus/views.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/menus/templates/menus/home-feed.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/templates/profiles/register.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/models.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/snippets/js.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/snippets/css.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/menus/models.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/views.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/menus/forms.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/form.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/templates/restaurants/detail-update.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/snippets/form-snippet.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/menus/templates/menus/detail-update.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/templates/restaurants/restaurantlocation_list.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/admin.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/shell_command.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/menus/templates/menus/item_detail.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/menus/urls.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/forms.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/urls.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/validators.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/profiles/templates/profiles/shell_commands.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/menus/templates/menus/item_list.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/tests.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/templates/restaurants/restaurantlocation_detail.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/menus/admin.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/menus/item_list.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/registration/login.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/utils.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/Lib/site-packages/django/http/response.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/registration/password_change_form.html",
+		"/C/Users/TOSHIBA/Documents/p5/empty-example/sketch.js",
+		"/C/Users/TOSHIBA/Documents/p5/empty-example/index.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/manage.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/templates/restaurants/forms.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/templates/restaurants/utils.py",
+		"/C/Users/TOSHIBA/AppData/Local/Temp/Temp1_p5.zip/empty-example/index.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/templates/restaurants/RestaurantDetailView.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/templates/restaurants/restaurants_list.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/admin.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/snippets/sidebar.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/about.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/templates/hotels/restaurants_list.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/restaurants/templates/restaurants_list.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/muypicky/settings/__init__.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/muypicky/settings/local.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/muypicky/settings/production.py",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/home3.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/templates/home2.html",
+		"/C/Users/TOSHIBA/Desktop/dev/trydjango1-11/src/originalSRC/templates/base.html",
+		"/C/Users/TOSHIBA/Desktop/djangoprojects/trydjango1-11/env1/muypicky/muypicky/old_settings.py",
+		"/C/Users/TOSHIBA/Desktop/djangoprojects/trydjango1-11/env1/requirements.txt",
+		"/C/Users/TOSHIBA/Desktop/djangoprojects/trydjango1-11/env1/muypicky/muypicky/__init__.py",
+		"/C/Users/TOSHIBA/Desktop/djangoprojects/trydjango1-11/env1/muypicky/muypicky/settings/local.py",
+		"/C/Users/TOSHIBA/Desktop/djangoprojects/trydjango1-11/env1/muypicky/muypicky/settings/production.py",
+		"/C/Users/TOSHIBA/Desktop/djangoprojects/trydjango1-11/env1/muypicky/manage.py",
+		"/C/Users/TOSHIBA/Desktop/djangoprojects/trydjango1-11/env1/muypicky/muypicky/settings/__init__.py",
+		"/C/Users/TOSHIBA/Desktop/djangoprojects/trydjango1-11/env1/muypicky/muypicky/settings/base.py",
+		"/C/xampp/htdocs/todo/todo.php",
+		"/C/Users/TOSHIBA/AppData/Local/Temp/tmpfjllxl1x.html",
+		"/C/Users/TOSHIBA/AppData/Local/Temp/tmp4eq0thkb.html",
+		"/C/Users/TOSHIBA/AppData/Local/Temp/tmpah_azcri.html",
+		"/C/Users/TOSHIBA/AppData/Local/Temp/tmpqe2arta5.html",
+		"/C/xampp/htdocs/sublime/style.css",
+		"/C/Users/TOSHIBA/Desktop/newest html geek/style.css",
+		"/C/Users/TOSHIBA/AppData/Local/Temp/Temp1_html5-css3-drop-down (1).zip/dropdown.html",
+		"/C/Users/TOSHIBA/Desktop/original page/index.html",
+		"/C/Users/TOSHIBA/Desktop/newest html geek/index.html",
+		"/C/Users/TOSHIBA/Desktop/HTML/webpage.html",
+		"/C/Users/TOSHIBA/Desktop/HTML/my website/index.html",
+		"/C/Users/TOSHIBA/Desktop/HTML/my website/style.css",
+		"/C/Users/TOSHIBA/Downloads/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/style.css",
+		"/C/Users/TOSHIBA/Desktop/HTML/index.html",
+		"/C/Users/TOSHIBA/Desktop/notepad ++/index.html",
+		"/C/Users/TOSHIBA/Downloads/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/index.html",
+		"/C/Program Files/Java/jre1.8.0_131/Welcome.html",
+		"/C/Users/TOSHIBA/Desktop/UTUBE TU/index.html",
+		"/C/Users/TOSHIBA/Desktop/bootstrap tutor/style.css",
+		"/C/Users/TOSHIBA/Desktop/bootstrap tutor/index.html",
+		"/C/Users/TOSHIBA/AppData/Local/Temp/Temp1_bootstrap-3.3.7-dist.zip/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map",
+		"/C/Users/TOSHIBA/AppData/Local/Temp/Temp1_bootstrap-3.3.7-dist.zip/bootstrap-3.3.7-dist/css/bootstrap.min.css.map",
+		"/C/Users/TOSHIBA/Desktop/UTUBE TU/style.css",
+		"/C/Users/TOSHIBA/Downloads/Package Control.sublime-package",
+		"/C/Users/TOSHIBA/Desktop/original page/style.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Users\\TOSHIBA\\Desktop\\dev\\trydjango1-11,C:\\Users\\TOSHIBA\\Desktop\\dev\\trydjango1-11\\src\\originalSRC"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"restaurant-detail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "muypicky.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
